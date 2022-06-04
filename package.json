@@ -12,10 +12,10 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "express-validator": "^6.14.1",
     "mongoose": "^6.3.3",
     "nodemon": "^2.0.16"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kchou94/exercise-api.git"
